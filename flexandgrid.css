@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.boxes {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  color: white;
+  text-align: center;
+}
+
+.box0 {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(0, 255, 157);
+}
+
+.box1 {
+  width: 30px;
+  height: 30px;
+  background-color: aqua;
+}
+.box2 {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+}
+.box3 {
+  width: 30px;
+  height: 30px;
+  background-color: blueviolet;
+}
+.box4 {
+  width: 30px;
+  height: 30px;
+  background-color: burlywood;
+}
+
+.box-2 {
+  order: 1;
+}
+
+.box-4 {
+  order: 3;
+}
+
+/* EXO de maison  */
+
+/* <h1>let's go to talk about flexbox</h1>
+
+    <div class="navbar">
+      <img src="" alt="" class="logo" />
+      <div class="navlink">
+        <a href="#">Accueil</a>
+        <a href="#">services</a>
+        <a href="#"> Contact</a>
+      </div>
+
+      <button>se connecter</button>
+
+    div */
