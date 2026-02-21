@@ -1,0 +1,49 @@
+/* .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5rem;
+}
+
+.navlink {
+  display: flex;
+  align-items: start;
+} */
+
+body {
+  color: white;
+  text-align: center;
+}
+
+.box1 {
+  width: 30px;
+  height: 30px;
+  background-color: aqua;
+}
+.box2 {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+}
+.box3 {
+  width: 30px;
+  height: 30px;
+  background-color: blueviolet;
+}
+.box4 {
+  width: 30px;
+  height: 30px;
+  background-color: burlywood;
+}
+
+.container {
+  display: flex;
+}
+
+.box-1 {
+  order: 1;
+}
+
+.box-4 {
+  order: 2;
+}
